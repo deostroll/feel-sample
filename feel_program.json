@@ -1,0 +1,8 @@
+{
+	"main": "if thisPropertyExists then doChecks() else true",
+	"doChecks" : "function() check1() and check2() and check3()",
+	"thisPropertyExists" : "function() if customerId then true else false",
+	"check1" : "function() if name then true else false",
+	"check2" : "function() if age then true else false",
+	"check3" : "function() if height then true else false"
+}

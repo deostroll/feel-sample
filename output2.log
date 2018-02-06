@@ -1,0 +1,50 @@
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionDefinitionNode build success, RULE: thisPropertyExists, TEXT: function() if customerId then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":30,"msg":"ProgramNode build success, RULE: thisPropertyExists, TEXT: function() if customerId then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: main, TEXT: thisPropertyExists","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode - condition - true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: main, TEXT: doChecks","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - decision found","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Procesing decision","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionDefinitionNode build success, RULE: doChecks, TEXT: function() check1() and check2() and check3()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Processing user-defined function","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: doChecks, TEXT: check1","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: doChecks, TEXT: check2","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: doChecks, TEXT: check3","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - decision found","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Procesing decision","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionDefinitionNode build success, RULE: check1, TEXT: function() if name then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - decision found","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Procesing decision","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionDefinitionNode build success, RULE: check2, TEXT: function() if age then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - decision found","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Procesing decision","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionDefinitionNode build success, RULE: check3, TEXT: function() if height then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Processing user-defined function","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Processing user-defined function","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode - Processing user-defined function","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: check1, TEXT: name","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: check2, TEXT: age","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"NameNode build success, RULE: check3, TEXT: height","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode - condition - Ajay","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"LiteralNode build success (with value), RULE: check1, TEXT: true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode - condition - 23","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"LiteralNode build success (with value), RULE: check2, TEXT: true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode - condition - 6","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"LiteralNode build success (with value), RULE: check3, TEXT: true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode build success, RULE: check1, TEXT: if name then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode build success, RULE: check2, TEXT: if age then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode build success, RULE: check3, TEXT: if height then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionBodyNode build success, RULE: check1, TEXT: if name then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionBodyNode build success, RULE: check2, TEXT: if age then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionBodyNode build success, RULE: check3, TEXT: if height then true else false","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode build success, RULE: doChecks, TEXT: check1()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode build success, RULE: doChecks, TEXT: check2()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode build success, RULE: doChecks, TEXT: check3()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"fn-generator","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"performing operation - true and true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"LogicalExpressionNode build success, RULE: doChecks, TEXT: check1() and check2() and check3()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"fn-generator","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"performing operation - true and true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"LogicalExpressionNode build success, RULE: doChecks, TEXT: check1() and check2() and check3()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionBodyNode build success, RULE: doChecks, TEXT: check1() and check2() and check3()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"FunctionInvocationNode build success, RULE: main, TEXT: doChecks()","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":20,"msg":"IfExpressionNode build success, RULE: main, TEXT: if thisPropertyExists then doChecks() else true","time":"2018-02-06T04:28:49.623Z","v":0}
+{"name":"feel-ast-parser","hostname":"BLRKEC116444L","pid":8772,"level":30,"msg":"ProgramNode build success, RULE: main, TEXT: if thisPropertyExists then doChecks() else true","time":"2018-02-06T04:28:49.623Z","v":0}
